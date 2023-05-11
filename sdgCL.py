@@ -28,7 +28,7 @@ class App:
         self.label3 = Label(master, text="SYNTHETIC DATA GENERATION OF CHEQUE LEAF")
         self.label3.grid(row=3, column=0 ,padx=10, pady=10)
 
-        self.label4 = Label(master, text=" - A Machine Learning Project By SAHANA S (20BCS079)")
+        self.label4 = Label(master, text=" - A Machine Learning Project By Kheshore JR")
         self.label4.grid(row=3, column=1 ,padx=10, pady=10)
 
     def generate_data(self):
