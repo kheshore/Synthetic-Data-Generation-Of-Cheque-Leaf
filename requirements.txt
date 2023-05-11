@@ -1,0 +1,5 @@
+faker
+tkintertable
+pandas
+seaborn
+matplotlib
